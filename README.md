@@ -2,7 +2,7 @@
 
 [![Blender](https://img.shields.io/badge/Blender-%23F5792A.svg?logo=blender&logoColor=white)](https://www.blender.org/)
 [![Gazebo](https://img.shields.io/badge/Gazebo-Harmonic%2B-blue)](https://gazebosim.org)
-[![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
+
 
 Bridge between Blender's modeling capabilities and Gazebo's physics simulation. Export static 3D models from Blender directly to SDF format for use in Gazebo simulations.
 
@@ -33,6 +33,8 @@ Have fun with Blender & Gazebo!
 
 ### 2. Download this repository as a .zip file.
 
+Download the extention at release part.
+
 ### 3. Install the zip file as local extention
 In Blender:
 Navigate to Edit-> Preferences -> Add-ons
@@ -46,7 +48,7 @@ then, boom, you have successfully✅ ‌ install the SDF static Model Exporter.
 
 It is recommanded to look a 10 minutes usage tutorial video to learn.
 
-Bilibili is my favorite platform, a 10-minute tutorial is available on ‌Bilibili‌ (link placeholder).
+Bilibili is my favorite platform, a 10-minute tutorial is available on ‌Bilibili‌ ([Bilibili](https://www.bilibili.com/video/BV1DJf2BwESM/)).
 
 📌 My channel covers Gazebo, ROS 2, and simulation tools – subscriptions welcome!
 
