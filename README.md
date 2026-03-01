@@ -33,7 +33,8 @@ Have fun with Blender & Gazebo!
 
 ### 2. Download this repository as a .zip file.
 
-Download the extention at release part.
+Download the extention at release part. download the file : gazebo_sdf_static_model_exporter-1.0.0.zip
+
 
 ### 3. Install the zip file as local extention
 In Blender:
